@@ -682,3 +682,7 @@ footer span a:hover {
 		line-height: 38px;
 	}
 }
+.mapright {
+	float: right;
+	margin-left: 560px;
+}
